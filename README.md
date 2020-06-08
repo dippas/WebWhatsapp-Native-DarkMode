@@ -30,8 +30,8 @@ If you don't have any userscript extension tool installed yet, here is a list wh
 
  Click one of the following links to install it via your favourite userscript tool:
 
-- [Minified](https://github.com/dippas/Whatsapp-Native-DarkMode/raw/master/js/userscript/webwhatsappnativedarkmode.min.user.js)
-- [Original](https://github.com/dippas/Whatsapp-Native-DarkMode/raw/master/js/userscript/webwhatsappnativedarkmode.user.js)
+- [Minified](https://raw.githubusercontent.com/dippas/WebWhatsapp-Native-DarkMode/master/js/userscript/webwhatsappnativedarkmode.min.user.js)
+- [Original](https://raw.githubusercontent.com/dippas/WebWhatsapp-Native-DarkMode/master/js/userscript/webwhatsappnativedarkmode.user.js)
 
 ## What does it do
 
