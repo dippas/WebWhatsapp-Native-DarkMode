@@ -45,6 +45,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 [![Pull requests](https://img.shields.io/github/issues-pr/dippas/WebWhatsapp-Native-DarkMode)](https://github.com/dippas/Whatsapp-Native-DarkMode/pulls)
 
-## Licença / License
+## License
 
 [![MIT](https://img.shields.io/github/license/dippas/WebWhatsapp-Native-DarkMode)](https://choosealicense.com/licenses/mit/)
