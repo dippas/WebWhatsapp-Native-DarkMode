@@ -35,7 +35,7 @@ If you don't have any userscript extension tool installed yet, here is a list wh
 
 ## What does it do
 
-It removes the Nonio popup and set it back the scrollbar in the site, so users can browse the site in question without the Nonio popup blocking the browsing
+Add the native Dark Mode to Web Whatsapp 
 
 ## Contributing
 
