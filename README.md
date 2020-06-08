@@ -1,4 +1,4 @@
-# WebWhatsapp Native Dark Mode
+# Web Whatsapp Native Dark Mode
 
 A simple way to add the native dark mode to your Web whatsapp
 
