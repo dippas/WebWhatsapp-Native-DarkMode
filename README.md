@@ -1,5 +1,7 @@
 # WebWhatsapp Native Dark Mode
 
+A simple way to add the native dark mode to your Web whatsapp
+
 ## Give some love to help keep the project alive
 
 [![bc](https://cdn.buymeacoffee.com/buttons/lato-black.png)](https://www.buymeacoffee.com/dippas)
