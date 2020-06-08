@@ -16,7 +16,7 @@ A simple way to add the native dark mode to your Web whatsapp
 [![forks](https://img.shields.io/github/forks/dippas/WebWhatsapp-Native-DarkMode.svg?style=social)](https://github.com/dippas/Whatsapp-Native-DarkMode/network)
 [![watchers](https://img.shields.io/github/watchers/dippas/WebWhatsapp-Native-DarkMode?label=Watchers&style=social)](https://github.com/dippas/Whatsapp-Native-DarkMode/watchers)
 
-[![release (latest by date)](https://img.shields.io/github/v/release/dippas/WebWhatsapp-Native-DarkMode)](https://github.com/dippas/Whatsapp-Native-DarkMode/releases/latest)
+[![release (latest by date)](https://img.shields.io/github/v/release/dippas/WebWhatsapp-Native-DarkMode)](https://github.com/dippas/WebWhatsapp-Native-DarkMode/releases/latest)
 ![language top](https://img.shields.io/github/languages/top/dippas/WebWhatsapp-Native-DarkMode)
 [![issues](https://img.shields.io/github/issues/dippas/WebWhatsapp-Native-DarkMode)](https://github.com/dippas/Whatsapp-Native-DarkMode/issues)
 ![maintenance](https://img.shields.io/maintenance/yes/2020)
