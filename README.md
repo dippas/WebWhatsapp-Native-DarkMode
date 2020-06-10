@@ -22,6 +22,15 @@ A simple way to add the native dark mode to your Web whatsapp
 ![maintenance](https://img.shields.io/maintenance/yes/2020)
 ![release date](https://img.shields.io/github/release-date/dippas/WebWhatsapp-Native-DarkMode)
 
+## NEW - now available in extension too
+
+## [![Firefox](https://i.imgur.com/k8dziXb.png)Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/webwhatsapp-native-darkmode/)
+
+[![version](https://img.shields.io/amo/v/WebWhatsapp-Native-DarkMode?color=orange)](https://addons.mozilla.org/pt-PT/firefox/addon/webwhatsapp-native-darkmode/)
+[![users](https://img.shields.io/amo/users/WebWhatsapp-Native-DarkMode?color=orange)](https://addons.mozilla.org/pt-PT/firefox/addon/webwhatsapp-native-darkmode/)
+
+## ![Chrome](https://i.imgur.com/RctyFpe.png)Chrome Extension -- Coming very soon
+
 ## User Script Installation
 
 If you don't have any userscript extension tool installed yet, here is a list where you can download and install it to your favourite browser
@@ -37,7 +46,11 @@ If you don't have any userscript extension tool installed yet, here is a list wh
 
 ## What does it do
 
-Add the native Dark Mode to Web Whatsapp 
+Add the native Dark Mode to Web Whatsapp
+
+## Notes
+
+(EN) For better plugin/script performance please keep it updated, see the updated version above
 
 ## Contributing
 
