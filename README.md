@@ -33,7 +33,7 @@ A simple way to add the native dark mode to your Web whatsapp
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/hofpgmccblgdpklckoopbfpcojffbfef)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/hofpgmccblgdpklckoopbfpcojffbfef?color=blue)
 
-## [![Edge](https://i.imgur.com/DhnhrKW.png)Edge Extension](https://microsoftedge.microsoft.com/addons/detail/ioiokiochndejeigfkekclmhgokkcidd?fbclid=IwAR2dBD6KJus11CUcliR4BkFMX-dNlczff1mTCYa4HD9D7TH1PFPurcH3HvM)
+## [![Edge](https://i.imgur.com/DhnhrKW.png)Edge Extension](https://microsoftedge.microsoft.com/addons/detail/ioiokiochndejeigfkekclmhgokkcidd)
 
 ## User Script Installation
 
