@@ -27,11 +27,13 @@ A simple way to add the native dark mode to your Web whatsapp
 
 [![version](https://img.shields.io/amo/v/WebWhatsapp-Native-DarkMode?color=orange)](https://addons.mozilla.org/pt-PT/firefox/addon/webwhatsapp-native-darkmode/)
 [![users](https://img.shields.io/amo/users/WebWhatsapp-Native-DarkMode?color=orange)](https://addons.mozilla.org/pt-PT/firefox/addon/webwhatsapp-native-darkmode/)
+[![stars](https://img.shields.io/amo/stars/WebWhatsapp-Native-DarkMode?color=orange)](https://addons.mozilla.org/pt-PT/firefox/addon/webwhatsapp-native-darkmode/)
 
 ## [![Chrome](https://i.imgur.com/RctyFpe.png)Chrome Extension](https://chrome.google.com/webstore/detail/hofpgmccblgdpklckoopbfpcojffbfef/)
 
-![Chrome Web Store](https://img.shields.io/chrome-web-store/v/hofpgmccblgdpklckoopbfpcojffbfef)
-![Chrome Web Store](https://img.shields.io/chrome-web-store/users/hofpgmccblgdpklckoopbfpcojffbfef?color=blue)
+[![version](https://img.shields.io/chrome-web-store/v/hofpgmccblgdpklckoopbfpcojffbfef)](https://chrome.google.com/webstore/detail/hofpgmccblgdpklckoopbfpcojffbfef/)
+[![users](https://img.shields.io/chrome-web-store/users/hofpgmccblgdpklckoopbfpcojffbfef?color=blue)](https://chrome.google.com/webstore/detail/hofpgmccblgdpklckoopbfpcojffbfef/)
+[![stars](https://img.shields.io/chrome-web-store/stars/hofpgmccblgdpklckoopbfpcojffbfef?color=blue)](https://chrome.google.com/webstore/detail/hofpgmccblgdpklckoopbfpcojffbfef/)
 
 ## [![Edge](https://i.imgur.com/DhnhrKW.png)Edge Extension](https://microsoftedge.microsoft.com/addons/detail/ioiokiochndejeigfkekclmhgokkcidd)
 
