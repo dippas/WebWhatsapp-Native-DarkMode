@@ -30,7 +30,6 @@
 		}
 	},
 
-
 	"content_scripts": [{
 		"matches": ["*://web.whatsapp.com/*"],
 		"js": [
