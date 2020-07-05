@@ -4,6 +4,7 @@
 	--white: #fff;
 	--orange: #fc0;
 	--green: #1d5852;
+	--gray: #dedede;
 	--font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 	--textSize: 1.2rem;
 	--spacing: 2rem;
@@ -20,7 +21,7 @@ body {
 	text-align: center;
 	color: var(--orange);
 	font-family: var(--font);
-	background: var(--color-secondary) linear-gradient(225deg, var(--color-secondary) 50%, var(--color-primary) 100%) no-repeat;
+	background: var(--color-secondary) linear-gradient(225deg, var(--color-secondary) 30%, var(--color-primary) 100%) no-repeat;
 }
 
 h1 {
@@ -52,6 +53,7 @@ a:hover {
 img {
 	max-width: 25rem;
 	border-radius: calc(var(--spacing) / 2);
+	display: block;
 }
 
 span {
@@ -65,4 +67,68 @@ span {
 .no-bg,
 .no-bg:hover {
 	background: transparent;
+}
+
+.toggle {
+	position: absolute;
+	left: -9999.9rem
+}
+
+.toggle:checked+.toggle-button {
+	background-color: var(--color-secondary);
+}
+
+.toggle:checked+.toggle-button::after {
+	content: '🌙';
+	background-color: var(--color-secondary);
+	left: calc(100% - .5rem);
+	transform: translateX(-100%);
+}
+
+.toggle:checked+.toggle-button .toggle-text::after {
+	content: 'Dark Mode'
+}
+
+
+.toggle-button {
+	width: 4rem;
+	height: 2.4rem;
+	border-radius: 4rem;
+	background-clip: padding-box;
+	background: var(--gray);
+	position: relative;
+	cursor: pointer;
+	display: block;
+	margin: 2rem auto;
+}
+
+.toggle-button::after {
+	content: '☀️';
+	top: .5rem;
+	left: .5rem;
+	position: absolute;
+	width: 1.5rem;
+	height: 1.5rem;
+	background-color: var(--gray);
+	border-radius: 50%;
+	background-clip: padding-box;
+	transition: .3s;
+}
+
+.toggle-text {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+
+.toggle-text::after {
+	content: 'Light Mode';
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	right: -11rem;
+	width: 10rem;
+	font-size: 1.2rem;
+	font-weight: 700;
 }

@@ -2,7 +2,7 @@
 
 	"manifest_version": 2,
 	"name": "WebWhatsapp-Native-DarkMode",
-	"version": "1.0.2",
+	"version": "1.1.0",
 	"author": "dippas",
 	"description": "A simple way to add the native dark mode to your Web whatsapp.",
 
@@ -14,14 +14,22 @@
 	},
 
 	"permissions": [
-		"activeTab"
-	],	
+		"activeTab",
+		"storage"
+	],
 
 	"browser_action": {
 		"default_icon": "icons/icon-32.png",
 		"default_title": "WebWhatsapp-Native-DarkMode",
 		"default_popup": "popup/popup.html"
 	},
+	
+	"applications": {
+		"gecko": {
+			"id": "dippas.dev@gmail.com"
+		}
+	},
+
 
 	"content_scripts": [{
 		"matches": ["*://web.whatsapp.com/*"],
