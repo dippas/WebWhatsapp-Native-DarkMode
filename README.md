@@ -21,7 +21,11 @@ A simple way to add the native dark mode to your Web whatsapp
 ![maintenance](https://img.shields.io/maintenance/yes/2020)
 ![release date](https://img.shields.io/github/release-date/dippas/WebWhatsapp-Native-DarkMode)
 
-## NEW - Now available in extension
+## NEW - Toggle Theme
+
+Since version 1.1.0 you can toggle between dark and light theme by toggling the switch  inside the popup.
+
+![Screenshot](https://i.imgur.com/Yvq7VGp.png)
 
 ## [![Firefox](https://i.imgur.com/k8dziXb.png)Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/webwhatsapp-native-darkmode/)
 
