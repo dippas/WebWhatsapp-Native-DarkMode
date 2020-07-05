@@ -23,7 +23,7 @@ A simple way to add the native dark mode to your Web whatsapp
 
 ## NEW - Toggle Theme
 
-Since version 1.1.0 you can toggle between dark and light theme by toggling the switch  inside the popup.
+Since version 1.1.1 you can toggle between dark and light theme by toggling the switch  inside the popup.
 
 ![Screenshot](https://i.imgur.com/Yvq7VGp.png)
 

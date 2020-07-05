@@ -2,7 +2,7 @@
 
 	"manifest_version": 2,
 	"name": "WebWhatsapp-Native-DarkMode",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"author": "dippas",
 	"description": "A simple way to add the native dark mode to your Web whatsapp.",
 

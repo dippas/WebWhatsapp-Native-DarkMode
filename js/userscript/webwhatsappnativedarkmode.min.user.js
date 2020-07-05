@@ -4,7 +4,7 @@
 // @namespace    https://github.com/dippas/WebWhatsapp-Native-DarkMode/
 // @homepage     https://github.com/dippas/WebWhatsapp-Native-DarkMode/
 // @description  Add native darkmode to web whatsapp
-// @version      1.1.0
+// @version      1.1.1
 // @supportURL   https://github.com/dippas/WebWhatsapp-Native-DarkMode/issues
 // @downloadURL  https://raw.githubusercontent.com/dippas/WebWhatsapp-Native-DarkMode/master/js/userscript/webwhatsappnativedarkmode.min.user.js
 // @match        https://web.whatsapp.com/*
