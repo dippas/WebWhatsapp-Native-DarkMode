@@ -60,7 +60,7 @@ Add the native Dark Mode to Web Whatsapp
 
 ## Notes
 
-(EN) For better plugin/script performance please keep it updated, see the updated version above
+For better plugin/script performance please keep it updated, see the updated version above
 
 ## Contributing
 
