@@ -37,7 +37,6 @@ Since version 1.1.1 you can toggle between dark and light theme by toggling the 
 
 [![version](https://img.shields.io/chrome-web-store/v/hofpgmccblgdpklckoopbfpcojffbfef)](https://chrome.google.com/webstore/detail/hofpgmccblgdpklckoopbfpcojffbfef/)
 [![users](https://img.shields.io/chrome-web-store/users/hofpgmccblgdpklckoopbfpcojffbfef?color=blue)](https://chrome.google.com/webstore/detail/hofpgmccblgdpklckoopbfpcojffbfef/)
-[![stars](https://img.shields.io/chrome-web-store/stars/hofpgmccblgdpklckoopbfpcojffbfef?color=blue)](https://chrome.google.com/webstore/detail/hofpgmccblgdpklckoopbfpcojffbfef/)
 
 ## [![Edge](https://i.imgur.com/DhnhrKW.png)Edge Extension](https://microsoftedge.microsoft.com/addons/detail/ioiokiochndejeigfkekclmhgokkcidd)
 
