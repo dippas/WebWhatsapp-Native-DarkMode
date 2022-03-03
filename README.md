@@ -38,8 +38,6 @@ Since version 1.1.1 you can toggle between dark and light theme by toggling the 
 [![version](https://img.shields.io/chrome-web-store/v/hofpgmccblgdpklckoopbfpcojffbfef)](https://chrome.google.com/webstore/detail/hofpgmccblgdpklckoopbfpcojffbfef/)
 [![users](https://img.shields.io/chrome-web-store/users/hofpgmccblgdpklckoopbfpcojffbfef?color=blue)](https://chrome.google.com/webstore/detail/hofpgmccblgdpklckoopbfpcojffbfef/)
 
-## [![Edge](https://i.imgur.com/DhnhrKW.png)Edge Extension](https://microsoftedge.microsoft.com/addons/detail/ioiokiochndejeigfkekclmhgokkcidd)
-
 ## User Script Installation
 
 If you don't have any userscript extension tool installed yet, here is a list where you can download and install it to your favourite browser
