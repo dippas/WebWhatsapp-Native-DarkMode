@@ -19,24 +19,7 @@ A simple way to add the native dark mode to your Web whatsapp
 ![maintenance](https://img.shields.io/maintenance/yes/2021)
 ![release date](https://img.shields.io/github/release-date/dippas/WebWhatsapp-Native-DarkMode)
 
-## NEW - Toggle Theme
-
-Since version 1.1.1 you can toggle between dark and light theme by toggling the switch  inside the popup.
-
-![Screenshot](https://i.imgur.com/Yvq7VGp.png)
-
-## [![Firefox](https://i.imgur.com/k8dziXb.png)Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/webwhatsapp-native-darkmode/)
-
-[![version](https://img.shields.io/amo/v/WebWhatsapp-Native-DarkMode?color=orange)](https://addons.mozilla.org/pt-PT/firefox/addon/webwhatsapp-native-darkmode/)
-[![users](https://img.shields.io/amo/users/WebWhatsapp-Native-DarkMode?color=orange)](https://addons.mozilla.org/pt-PT/firefox/addon/webwhatsapp-native-darkmode/)
-[![stars](https://img.shields.io/amo/stars/WebWhatsapp-Native-DarkMode?color=orange)](https://addons.mozilla.org/pt-PT/firefox/addon/webwhatsapp-native-darkmode/)
-
-## [![Chrome](https://i.imgur.com/RctyFpe.png)Chrome Extension](https://chrome.google.com/webstore/detail/hofpgmccblgdpklckoopbfpcojffbfef/)
-
-[![version](https://img.shields.io/chrome-web-store/v/hofpgmccblgdpklckoopbfpcojffbfef)](https://chrome.google.com/webstore/detail/hofpgmccblgdpklckoopbfpcojffbfef/)
-[![users](https://img.shields.io/chrome-web-store/users/hofpgmccblgdpklckoopbfpcojffbfef?color=blue)](https://chrome.google.com/webstore/detail/hofpgmccblgdpklckoopbfpcojffbfef/)
-
-## User Script Installation
+## Installation
 
 If you don't have any userscript extension tool installed yet, here is a list where you can download and install it to your favourite browser
 
